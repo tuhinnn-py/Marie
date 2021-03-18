@@ -31,7 +31,7 @@ However recurrent neural networks come with a lot of problems, some of them bein
 *Here's another generated example.*
 
 <p align="center">
-  <img width="565" height="465" src="https://github.com/tuhinnn-py/Marie/blob/main/utils/hand.png">
+  <img src="https://github.com/tuhinnn-py/Marie/blob/main/utils/hand.png">
 </p>
 
 *I wanted to find out the minimum time required to train the transformer model upto a satisfactory benchmark and as it turned out, the minimum number of epochs required were 3 and the estimated training time was only 21 minutes.*
