@@ -1,5 +1,9 @@
 # **Marie**
----
+
+<p align="center">
+  <img width="465" height="565" src="https://github.com/tuhinnn-py/Marie/blob/main/Transformer.png">
+</p>
+
 *Before "**Attention Is All You Need**", Sequence-to-Sequence translations were dependent on complex recurrent architectures like Recurrent Neural Networks(RNNs), Long Short Term Memory(LSTMs) or Gated Recurrent Units(GRUs) with Bidirectional Long Short Term Memory architectures(BiLSTM) being the state-of-the-art model architecture for Natural Language Processing(NLP) tasks.* 
 
 *Infact, some papers even suggested the use of a convolutional architecture to character or word level embeddings to effectively capture grassroot dependencies and relationships depending on the kernel window size(N), thus mimicing a N-gram language model for language modelling tasks. 
