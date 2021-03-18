@@ -22,15 +22,20 @@ However recurrent neural networks come with a lot of problems, some of them bein
 </p>
 
 ### **Result** 
----
 *Transformers are generally popular and well known for sequence-to-sequence translations. I trained my Transformer implementation on a single Kaggle GPU for 9 hous and the loss converged to 0.07, which according to my opinion is very satisfactory. Within only hours of training, the model mimics a complex English to French translator. With added utilities like a pretrained BERT(which is a deeply bidirectional encoder representation for a transformer), which allows deeply bidirectional contextual token embeddings as input, a satisfactory translator could be roughly be produced within minutes of training.*
 
-![1](https://github.com/tuhinnn-py/Marie/blob/main/utils/chair.png)
+<p align="center">
+  <img width="565" height="465" src="https://github.com/tuhinnn-py/Marie/blob/main/utils/chair.png">
+</p>
 
 *Here's another generated example.*
 
-![2](https://github.com/tuhinnn-py/Marie/blob/main/utils/hand.png)
+<p align="center">
+  <img width="565" height="465" src="https://github.com/tuhinnn-py/Marie/blob/main/utils/hand.png">
+</p>
 
-*This is the last one.*
+*I wanted to find out the minimum time required to train the transformer model upto a satisfactory benchmark and as it turned out, the minimum number of epochs required were 3 and the estimated training time was only 21 minutes.*
 
-![3](https://github.com/tuhinnn-py/Marie/blob/main/utils/hate.png)
+<p align="center">
+  <img width="565" height="465" src="https://github.com/tuhinnn-py/Marie/blob/main/utils/hate.png">
+</p>
