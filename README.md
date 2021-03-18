@@ -21,3 +21,17 @@ However recurrent neural networks come with a lot of problems, some of them bein
 <p align="center">
   <img width="465" height="565" src="https://github.com/tuhinnn-py/Marie/blob/main/utils/Transformer.png">
 </p>
+
+### **Result** 
+---
+*Transformers are generally popular and well known for sequence-to-sequence translations. I trained my Transformer implementation on a single Kaggle GPU for 9 hous and the loss converged to 0.07, which according to my opinion is very satisfactory. Within only hours of training, the model mimics a complex English to French translator. With added utilities like a pretrained BERT(which is a deeply bidirectional encoder representation for a transformer), which allows deeply bidirectional contextual token embeddings as input, a satisfactory translator could be roughly be produced within minutes of training.*
+
+![1](https://github.com/tuhinnn-py/Marie/blob/main/utils/chair.png)
+
+*Here's another generated example.*
+
+![2](https://github.com/tuhinnn-py/Marie/blob/main/utils/hand.png)
+
+*This is the last one.*
+
+![3](https://github.com/tuhinnn-py/Marie/blob/main/utils/hate.png)
