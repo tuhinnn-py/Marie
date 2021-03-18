@@ -1,7 +1,7 @@
 # **Marie**
 
 <p align="center">
-  <img width="700" height="448" src="https://github.com/tuhinnn-py/Marie/blob/main/Transformer.jpg">
+  <img width="700" height="448" src="https://github.com/tuhinnn-py/Marie/blob/main/utils/Transformer.jpg">
 </p>
 
 ### **Overview** 
@@ -19,5 +19,5 @@ However recurrent neural networks come with a lot of problems, some of them bein
 *As an improvement to the previously exisiting recurrent architectures, in 2017 Google AI research(Asish Vaswani et. al.) published their groundbreaking transformer architecture in the paper "**Attention Is All You Need**, which is inherently parallelizable and can also capture really long term dependencies due to a mechanism, that the authors call in the paper "**Multi-Head Attention**".*
 
 <p align="center">
-  <img width="465" height="565" src="https://github.com/tuhinnn-py/Marie/blob/main/Transformer.png">
+  <img width="465" height="565" src="https://github.com/tuhinnn-py/Marie/blob/main/utils/Transformer.png">
 </p>
