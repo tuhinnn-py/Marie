@@ -14,4 +14,8 @@ However recurrent neural networks come with a lot of problems, some of them bein
 - *Depending on the singular values of weight matrices, gradients seem to explode(**Exploding Gradient Problem**) or diminish to zero(**Vanishing Gradient Problem**).*
 - *However the biggest con probably might be the fact that RNNs are not **parallelizable**. Due to their inherent reccurent nature, where the output for the N-1th token serves as an additional input along with the Nth token for the Nth step, RNNs cannot be parallelized.*
 
-*As an improvement to the previously exisiting recurrent architectures, in 2017 Google AI research(Asish Vaswani et. al.) published their groundbreaking transformer architecture in the paper "**Attention Is All You Need**, which is inherently parallelizable and can also capture really long term dependencies due to a mechanism, that the authors called in the paper "**Multi-Head Attention**"*
+*As an improvement to the previously exisiting recurrent architectures, in 2017 Google AI research(Asish Vaswani et. al.) published their groundbreaking transformer architecture in the paper "**Attention Is All You Need**, which is inherently parallelizable and can also capture really long term dependencies due to a mechanism, that the authors call in the paper "**Multi-Head Attention**".*
+
+<p align="center">
+  <img width="465" height="565" src="https://github.com/tuhinnn-py/Marie/blob/main/Transformer.png">
+</p>
