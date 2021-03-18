@@ -1,7 +1,7 @@
 # **Marie**
 
 <p align="center">
-  <img width="465" height="565" src="https://github.com/tuhinnn-py/Marie/blob/main/Transformer.png">
+  <img width="700" height="448" src="https://github.com/tuhinnn-py/Marie/blob/main/Transformer.jpg">
 </p>
 
 *Before "**Attention Is All You Need**", Sequence-to-Sequence translations were dependent on complex recurrent architectures like Recurrent Neural Networks(RNNs), Long Short Term Memory(LSTMs) or Gated Recurrent Units(GRUs) with Bidirectional Long Short Term Memory architectures(BiLSTM) being the state-of-the-art model architecture for Natural Language Processing(NLP) tasks.* 
